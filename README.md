@@ -1,5 +1,5 @@
 # how-to-use-git
-This repo is created to learn git and github
+This repo is created to learn git and github platform
 ## Author: LamPham
 Uni: VKU
 Major: SE

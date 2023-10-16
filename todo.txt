@@ -1,0 +1,4 @@
+1. Learn reactjs
+2. Build project with react and spring boot
+3. Learn spring aspect
+4. Deep dive into git and github
